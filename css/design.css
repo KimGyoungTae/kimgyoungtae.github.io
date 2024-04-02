@@ -75,16 +75,11 @@
     left: 0;
     width: 100%;
     height: 1rem;
-
-    /*
-    background: rgb(132,94,194);
-    background: linear-gradient(90deg, rgba(132,94,194,1) 1%, rgba(143,131,244,1) 15%, 
-rgba(131,163,255,1) 30%, rgba(91,187,255,0.9990371148459384) 60%, rgba(196,252,239,1) 91%, rgba(248,255,235,1) 99%);
-*/    
-
-    background: rgb(45,36,200);
-    background: linear-gradient(90deg, rgba(45,36,200,1) 0%, rgba(146,74,10,1) 78%);
     
+background: rgb(47,49,181);
+background: linear-gradient(148deg, rgba(47,49,181,1) 0%, rgba(22,22,255,1) 20%, rgba(144,50,255,1) 25%, rgba(39,39,208,1) 30%, 
+rgba(0,0,150,1) 37%, rgba(0,46,126,1) 47%, rgba(38,22,65,1) 56%, 
+rgba(144,50,255,1) 74%, rgba(91,80,230,1) 88%, rgba(157,206,255,1) 96%, rgba(0,168,255,1) 100%);
 }
 
 
@@ -143,7 +138,13 @@ rgba(131,163,255,1) 30%, rgba(91,187,255,0.9990371148459384) 60%, rgba(196,252,2
 }
 .bar_fill {
     height: 2rem;
-    background: yellow;
+    background:rgb(5,25,55);
+    background:rgb(255,255,255);
+    background:rgb(33,33,121);
+    background:rgb(47,49,181);
+    background: linear-gradient(148deg, rgba(47,49,181,1) 0%, rgba(22,22,255,1) 20%, rgba(0,0,65,1) 25%, 
+    rgba(39,39,208,1) 30%, rgba(0,0,150,1) 37%, rgba(0,46,126,1) 47%, rgba(38,22,65,1) 56%, rgba(144,50,255,1) 74%, 
+    rgba(91,80,230,1) 88%, rgba(157,206,255,1) 96%, rgba(0,168,255,1) 100%);
     padding: 0 1.5rem;
     text-align: center;
     line-height: 2rem;
